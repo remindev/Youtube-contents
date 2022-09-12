@@ -1,3 +1,3 @@
-[Link to the page] : https://remindev.github.io/Youtube-contents/Simple-Input-Box/
+[Link to the page](https://remindev.github.io/Youtube-contents/Simple-Input-Box/)
 
 
