@@ -1,12 +1,13 @@
 This is a simple project to create a input box using HTML & CSS 
 
-Also this is hosted 
-Also there is a youtube video for this 
+Also this is hosted [View the page](https://remindev.github.io/Youtube-contents/Simple-Input-Box/)
 
-Links are provided below
+Also there is a youtube video for this [Youtuble channel](https://www.youtube.com/c/reminz)
 
-[View the page](https://remindev.github.io/Youtube-contents/Simple-Input-Box/)
 
-[Youtuble channel](https://www.youtube.com/c/reminz)
+
+
+
+
 
 
