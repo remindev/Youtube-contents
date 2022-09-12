@@ -8,7 +8,7 @@
 >
 >More videos & projects are coming in future.
 
-**Projects uploaded here are based on videos on our youtube channel** : [Take a look](https://www.youtube.com/c/reminz)
+**Projects uploaded here are based on videos on our youtube channel** : [Take a look at Youtube channel](https://www.youtube.com/c/reminz)
 
 **Here is some video's colletion and their links**
 
