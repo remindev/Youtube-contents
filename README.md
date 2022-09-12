@@ -14,7 +14,7 @@
 
 >![image](https://remindev.github.io/Youtube-contents/Simple-Input-Box/info/thump.png)
 >
->Simple Input Box : [View in Youtube](#)
+>Simple Input Box : [View in Youtube](https://www.youtube.com/watch?v=mSzQmrN650s)
 
 
 
