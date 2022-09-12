@@ -4,9 +4,11 @@
 
 ![image](https://remindev.github.io/Youtube-contents/Simple-Input-Box/info/thump.png)
 
-**Also this is hosted** : [Give a look at the input-box](https://remindev.github.io/Youtube-contents/Simple-Input-Box/)
+> **Also this is hosted** : [Give a look at the input-box](https://remindev.github.io/Youtube-contents/Simple-Input-Box/)
 
-**Also there is a youtube video for this !** : [Youtuble channel](https://www.youtube.com/c/reminz)
+> **Check out youtube video for this site !** : [Youtuble Video](https://www.youtube.com/watch?v=mSzQmrN650s)
+
+> **Checkout our channel** : [Youtube channel](https://www.youtube.com/c/reminz)
 
 
 
