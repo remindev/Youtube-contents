@@ -1,6 +1,8 @@
 # Youtube-contents
 
-This is the place were we save all our simple project's from our youtube channel
+**Here is the repository with my all simple HTML & CSS projects**
+
+**Projects uploaded here are based on videos on our youtube channel** : [Take a look](https://www.youtube.com/c/reminz)
 
 Contents provided here is free to use and is static pages
 
